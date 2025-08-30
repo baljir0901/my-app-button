@@ -14,7 +14,7 @@ export default function HomePage() {
 
       <Button label="Tovch1" onClick={handleAdd} type="button" />
       <Button label="Tovch2" onClick={handleAdd} type="button" />
-      <Button label="Tovch3" onClick={handleAdd} type="button" />
+      <Button label="Tovch4" onClick={handleAdd} type="button" />
       </div>
     </main>
   );
